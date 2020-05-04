@@ -11,6 +11,7 @@ Create .exe (for future reference):
 Find folder with .py files -> click on path in explorer -> "cmd" Enter
 
 pip install pyinstaller
+
 python -m PyInstaller --onefile --windowed --name="fileName" OPAL.py
 
 --> move OPAL.exe into main folder and delete "dist" folder
